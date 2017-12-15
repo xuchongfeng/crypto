@@ -24,7 +24,7 @@ public class TxHandler {
         // IMPLEMENT THIS
         ArrayList<Output> outputs = tx.getOutputs();
         for (Output output: outputs) {
-
+            
         }
     }
 
